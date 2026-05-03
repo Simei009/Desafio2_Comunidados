@@ -12,6 +12,7 @@ Goiânia, Porto Alegre, Recife, Rio de Janeiro, Salvador e São Paulo. Os dados 
 # Sistemas utilizadas:
  - VS Code
  - Linguagem Python (Pandas)
+ - Jupyter notebook
  - dbdiagram.io
  - Postgres (pgAdmim4)
 
