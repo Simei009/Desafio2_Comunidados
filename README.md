@@ -1,6 +1,6 @@
 # Projeto Desafio2
 ## Pipeline + Data Warehouse - Modelagem Dimensional
-Este Projeto tem como objetivo construir um pipeline de dados completo de 3 bases operacionais vendas, estoque, devoluções para uma empresa 
+Este Projeto tem como objetivo construir um pipeline de dados completo de 3 bases operacionais: vendas, estoque e devolucoes para uma empresa 
 fictícia de e-commerce de eletrônicos, permitindo a consolidação, tratamento e análise de dados de vendas, clientes e produtos. A solução para
 projeto segue boas práticas de engenharia de dados, incluindo ingestão, transformação e modelagem em um Data Warehouse.
 
@@ -101,7 +101,7 @@ No contexto profissional, esse tipo de projeto funciona como um forte item de po
 Trabalhar com dados reais e imperfeitos
 Estruturar pipelines de dados ponta a ponta
 Modelar um Data Warehouse orientado a análise
-Gerar insights de negócio a partir de dados
+Gerar insights de negócio a partir de dados.
 Entretanto, o Desafio2 da Comunidados contribui diretamente para a transição de um conhecimento teórico para uma atuação prática, aproximando você do que é esperado em posições como Analista de Dados, Engenhearia de Dados. Ele mostra não apenas que você entende conceitos, mas que consegue aplicá-los de forma estruturada, escalável e orientada a resultados, o Desafio traz um diferencial importante no processo de profissionalização.
 
 
